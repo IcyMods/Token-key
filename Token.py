@@ -3,7 +3,7 @@ import random
 import time
 import os
 
-# premium version to generate keys quicker or otherwise | create a system that you can buy to unlock [premium : version]
+# premium version to generate keys quicker or otherwise | create a system that you can buy to unlock [premium : version] on a website or something lol
 premium = True 
 
 # characters lower, upper, and digits
