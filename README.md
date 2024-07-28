@@ -8,6 +8,9 @@
 # Updates
 ```for better experience with this key gen / token gen i would love to upgrade this in the future!```
 
+# Wait what programming language is this?
+``` this is coded in python!! ```
+
 # Help what do i do? Beginners Guide
 ![image](https://github.com/user-attachments/assets/5ca0e775-dee3-4bc8-a1ab-91dfda3838c5)
 
