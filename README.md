@@ -2,8 +2,8 @@
 key generator / token generator | source code
 
 
-# Use
-when using you can credit my @
+# plagiarism
+credit my @ if using / uploading to a socal media
 
-# updating soon
+# Updates
 for better experience with this key gen / token gen i will love to upgrade this in the future!
