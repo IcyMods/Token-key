@@ -4,7 +4,6 @@ import time
 import os
 
 # premium version to generate keys quicker or otherwise
-
 # you can delete this and code something else unique here!
 premium = True 
 
