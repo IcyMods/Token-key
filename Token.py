@@ -3,7 +3,9 @@ import random
 import time
 import os
 
-# premium version to generate keys quicker or otherwise | create a system that you can buy to unlock [premium : version] on a website or something lol
+# premium version to generate keys quicker or otherwise
+
+# you can delete this and code something else unique here!
 premium = True 
 
 # characters lower, upper, and digits
@@ -33,13 +35,10 @@ length = 0
 amount = 0
 
 # checking if its true or false if the user has premium
-if premium == False:
-    give_amount = int(input("Generate key(s) amount: "))
-    give_length = int(input("Characters length amount: "))
 
 if premium == True:
-    give_amount = int(input("Premium | Generate key(s) amount: "))
-    give_length = int(input("Premium | Characters length amount: "))
+    give_amount = int(input("Generate key(s) amount: "))
+    give_length = int(input("Characters length amount: "))
 
 # setting the amount and length to its input amount
 amount = give_amount
@@ -56,10 +55,7 @@ for x in range(amount):
     # checks if the premium is true or false to make the wait time less or high between premiums
     if premium == True:
         time.sleep(0.03)
-        print(f"{password} | succesfully generated! | PREMIUM VERSION")
-    if premium == False:
-        time.sleep(3)
-        print(f"{password} | succesfully generated! | upgrade with premium to generate keys quicker!ß")
+        print(f"{password} | succesfully generated!")
 
     # checks if the amount is 0 then it will print
     if amount_received == 0:
