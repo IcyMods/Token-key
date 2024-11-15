@@ -1,15 +1,14 @@
-# Token-key Generator | v1.0.5
+# Token-key Generator | v1.0.9
 ```key generator / token generator | source code```
 
-
-# plagiarism
+# Credits
 ```credit my user for my github if using / uploading to a socal media```
 
 # Updates
-```for better experience with this key gen / token gen i would love to upgrade this in the future!```
+```UPDATE v1.0.9 | Added key generator (XBOX / PSN / KEY GENS) !```
 
 # Wait what programming language is this?
-``` this is coded in python!! ```
+``` this is coded in python! ```
 
 # Help what do i do? Beginners Guide
 ![image](https://github.com/user-attachments/assets/5ca0e775-dee3-4bc8-a1ab-91dfda3838c5)
