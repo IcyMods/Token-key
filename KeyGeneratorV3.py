@@ -1,6 +1,8 @@
 import secrets
 import string
 
+# ⚠️ this doesnt actually print xbox / psn codes its just to generate random 5x5 / 4x4 patterns randomly.
+
 def generate_xbox_code():
     # Define allowed characters for Xbox code (excluding A, E, I, O, U, L, S, 0, 1, 5)
     characters = ''.join([char for char in string.ascii_uppercase + string.digits if char not in "AEIOULS015"])
@@ -44,3 +46,6 @@ elif code_type == 'psn':
         print(key)
 else:
     print("Invalid input. Please enter 'Xbox' or 'PSN'.")
+
+
+# CREDITS:  made by icyMods on github
