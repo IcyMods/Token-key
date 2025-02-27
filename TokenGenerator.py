@@ -1,4 +1,8 @@
 # importing 
+
+
+# made this in school lol
+
 import random
 import time
 import os
